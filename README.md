@@ -44,5 +44,4 @@ Feel free to explore my repositories for more!
 
 I'm always open to interesting projects, collaborations, and discussions. Feel free to reach out and connect!
 
-[![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)](https://github.com/yourusername)
-
+[![Visitor Count](https://profile-counter.glitch.me/MuhammadSheraz002/count.svg)](https://github.com/MuhammadSheraz002)
