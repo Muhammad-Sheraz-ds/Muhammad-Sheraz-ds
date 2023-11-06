@@ -15,7 +15,7 @@ I'm a Data Science student at Punjab University, Lahore, currently in my 4th sem
 - Machine Learning
 - Data Visualization
 - Python
-- SQL
+- MySQL
 - Statistical Analysis
 - Git and Version Control
 
