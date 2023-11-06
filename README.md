@@ -28,7 +28,7 @@ You can provide links to your projects on GitHub or other platforms.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link-to-LinkedIn)
+- LinkedIn:(https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email:sheraz60105@gmail.com
 
 Feel free to reach out to me if you'd like to collaborate on a project or just have a chat about data science!
