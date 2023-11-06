@@ -30,7 +30,7 @@ Feel free to explore my repositories for more!
 ## 📫 Get in Touch
 
 - LinkedIn: [Muhammad Sheraz](https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [sheraz60105@gmail.com](mailto:sheraz60105@gmail.com)
+- Email: [sheraz601050@gmail.com](mailto:sheraz601050@gmail.com)
 
 ## 💬 Let's Connect
 
