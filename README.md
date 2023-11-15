@@ -40,6 +40,47 @@ Feel free to explore my repositories for more!
 - Email: [sheraz601050@gmail.com](mailto:sheraz601050@gmail.com)
 - Kaggle: [Muhammad Sheraz](your-kaggle-profile-link)
 
+<div align="center">
+  <h3 align="center">Tools and Technologies</h3>
+  <a href="#">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </a>
+ 
+   <a href="#">
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+ 
+</div>
+<br>
+
+
 ## 💬 Let's Connect
 
 I'm always open to interesting projects, collaborations, and discussions. Feel free to reach out and connect!
