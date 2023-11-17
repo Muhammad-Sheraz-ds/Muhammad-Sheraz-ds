@@ -19,6 +19,17 @@ I'm a Data Science student at Punjab University, Lahore, currently in my 4th sem
 - **Version Control:** Git, GitHub
 - **Tools:** Jupyter Notebooks,PyCharm, VS Code
 
+## 🔧 Skills
+
+- **Programming:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Data Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- **Machine Learning:** ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Data Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/Seaborn-0747B6?style=for-the-badge&logo=seaborn&logoColor=white)
+- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Tools:** ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ## 🌱 Projects
 
 Here are some of the projects I've worked on:
