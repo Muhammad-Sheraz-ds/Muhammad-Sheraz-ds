@@ -48,8 +48,7 @@ Feel free to explore my repositories for more!
   </a>
   
   <!-- Kaggle Badge -->
-  <!-- Replace 'your-kaggle-profile-link' with your actual Kaggle profile link -->
-  <a href="your-kaggle-profile-link">
+   <a href="https://www.kaggle.com/muhammadsheraza002">
     <img src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </div>
