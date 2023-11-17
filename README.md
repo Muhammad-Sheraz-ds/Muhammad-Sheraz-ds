@@ -34,11 +34,25 @@ Feel free to explore my repositories for more!
 - **BS Data Science:** Punjab University, Lahore
   - _4th Semester (Current)_
   
-## 📫 Get in Touch
-
-- LinkedIn: [Muhammad Sheraz](https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [sheraz601050@gmail.com](mailto:sheraz601050@gmail.com)
-- Kaggle: [Muhammad Sheraz](your-kaggle-profile-link)
+<div align="center">
+  <h2 align="center">📫 Get in Touch</h2>
+  
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sheraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Email Badge -->
+  <a href="mailto:sheraz601050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sheraz601050%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- Kaggle Badge -->
+  <!-- Replace 'your-kaggle-profile-link' with your actual Kaggle profile link -->
+  <a href="your-kaggle-profile-link">
+    <img src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</div>
 
 <div align="center">
   <h3 align="center">Tools and Technologies</h3>
