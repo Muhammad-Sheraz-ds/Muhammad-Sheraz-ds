@@ -45,8 +45,7 @@ Feel free to explore my repositories for more!
   <a href="#">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a>
- 
-   <a href="#">
+  <a href="#">
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   </a>
   <a href="#">
@@ -61,9 +60,42 @@ Feel free to explore my repositories for more!
   <a href="#">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
- 
+  <a href="#">
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Seaborn-%230747B6.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Scikit%20learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
+  </a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/Statsmodels-%23F37626.svg?style=for-the-badge&logo=statsmodels&logoColor=white" />
+  </a>
 </div>
 <br>
+
 
 
 ## 💬 Let's Connect
