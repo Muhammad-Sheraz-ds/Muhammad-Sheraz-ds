@@ -127,6 +127,29 @@ Feel free to explore my repositories for more!
   </a>
 </div>
 
+<div align="center">
+  <h2 align="center">📫 Get in Touch</h2>
+  
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Email Badge -->
+  <a href="mailto:sheraz601050@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- Kaggle Badge -->
+   <a href="https://www.kaggle.com/muhammadsheraza002">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/MuhammadSheraz/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
 ## 💬 Let's Connect
 
