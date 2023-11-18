@@ -40,6 +40,11 @@ Feel free to explore my repositories for more!
    <a href="https://www.kaggle.com/muhammadsheraza002">
     <img src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/MuhammadSheraz/">
+    <img src="https://img.shields.io/badge/LeetCode-Muhammad%20Sheraz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </div>
 
 <div align="center">
