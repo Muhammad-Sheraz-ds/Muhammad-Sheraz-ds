@@ -12,7 +12,7 @@ I'm a Data Science student at Punjab University, Lahore, currently in my 4th sem
 
 Here are some of the projects I've worked on:
 
-- [Analysing and Predicting Insurance Claim](https://github.com/Mlink-touhammadSheraza002/Predicting-Insurance-Claim.git)
+- [Analysing and Predicting Insurance Claim](https://github.com/MuhammadSheraza002/Predicting-Insurance-Claim.git)
 - [Loan-Eligibility-Classification-Prediction](https://github.com/MuhammadSheraza002/Loan-Eligibility-Classification-Prediction.git)
 - [Titanic-Predicting-model](https://github.com/MuhammadSheraza002/Titanic-Predicting-model.git)
 
