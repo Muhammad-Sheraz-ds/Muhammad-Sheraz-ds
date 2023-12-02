@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+    <div>
+        <h1>Hello! 😊 I'm Ehtisham Sadiq</h1>
+        <p>A proficient Data Scientist and Machine Learning Engineer with expertise in programming languages, ML frameworks,
+            and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed
+            to delivering top-notch results.</p>
+        <p>Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My
+            technical skills encompass Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras,
+            MySQL, MongoDB, and more, along with proficiency in NLP, Data Analysis, Data Visualization, and Statistical Analysis.</p>
+        <p>I bring valuable experience as a Data Analyst, Data Science Intern, and ML Engineer, and have worked on impactful
+            projects, including deploying ML models and building Face Recognition features using Hugging-Face and Langchain.</p>
+        <p>Holding a Bachelor's in Software Engineering, I'm equipped with a strong academic foundation and have a track record
+            of successful projects, like developing an NLP-based web app for mental health prevention. 📚</p>
+        <p>In addition to my professional pursuits, I enjoy playing cricket 🏏 and find relaxation in Qawali music. 🎶</p>
+        <p>Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful
+            projects and create innovative solutions that redefine the realm of AI and Data Science.</p>
+        <p>Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝</p>
+        <b><h3 style="color:red">Feel free to connect with me on GitHub and appreciate my work!</h3></b>
+    </div>
+</body>
+
+</html>
+
+
+
 # Hi, I'm Muhammad Sheraz 👋
 
 I'm a Data Science student at Punjab University, Lahore, currently in my 4th semester. I'm passionate about machine learning,data analysis and all things related to data science. Here, you'll find a glimpse of my projects and interests.
