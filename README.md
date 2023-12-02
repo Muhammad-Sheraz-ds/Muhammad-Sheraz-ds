@@ -6,8 +6,8 @@
 
 <body>
     <div>
-        <h1>Hello! 😊 I'm Ehtisham Sadiq</h1>
-        <p>A proficient Data Scientist and Machine Learning Engineer with expertise in programming languages, ML frameworks,
+        <h1>Hello! 😊  Hi, I'm Muhammad Sheraz </h1>
+        <p>A proficient Data Scientist Intern and Machine Learning Engineer with expertise in programming languages, ML frameworks,
             and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed
             to delivering top-notch results.</p>
         <p>Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My
@@ -29,15 +29,6 @@
 
 
 
-# Hi, I'm Muhammad Sheraz 👋
-
-I'm a Data Science student at Punjab University, Lahore, currently in my 4th semester. I'm passionate about machine learning,data analysis and all things related to data science. Here, you'll find a glimpse of my projects and interests.
-
-## 👨‍💻 About Me
-
-- 🎓 I'm currently pursuing a Bachelor of Science in Data Science at Punjab University, Lahore.
-- 🌱 I'm always eager to learn and explore new data science techniques and technologies.
-- 💼 I'm open to exciting internship and job opportunities in the data science field.
 
 ## 🌱 Projects
 
