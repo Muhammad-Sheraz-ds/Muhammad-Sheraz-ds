@@ -7,7 +7,7 @@
 <body>
     <div>
         <h1>Hello! 😊  Hi, I'm Muhammad Sheraz </h1>
-        <p>A proficient Data Scientist Intern and Machine Learning Engineer with expertise in programming languages, ML frameworks,
+        <p>A proficient Machine Learning Engineer and Data Scientist with expertise in programming languages, ML frameworks,
             and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed
             to delivering top-notch results.</p>
         <p>Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My
