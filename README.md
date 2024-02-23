@@ -31,7 +31,6 @@
 ## 🌱 Projects
 
 Here are some of the projects I've worked on:
--()
 - [Property-Profit-Maximizer](https://github.com/MuhammadSheraza002/AI-Property-Profit-Maximizer.git)
 - [Analysing and Predicting Insurance Claim](https://github.com/MuhammadSheraza002/Predicting-Insurance-Claim.git)
 - [Loan-Eligibility-Classification-Prediction](https://github.com/MuhammadSheraza002/Loan-Eligibility-Classification-Prediction.git)
