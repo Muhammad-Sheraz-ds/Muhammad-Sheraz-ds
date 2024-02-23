@@ -31,7 +31,8 @@
 ## 🌱 Projects
 
 Here are some of the projects I've worked on:
-
+-()
+- [Property-Profit-Maximizer](https://github.com/MuhammadSheraza002/AI-Property-Profit-Maximizer.git)
 - [Analysing and Predicting Insurance Claim](https://github.com/MuhammadSheraza002/Predicting-Insurance-Claim.git)
 - [Loan-Eligibility-Classification-Prediction](https://github.com/MuhammadSheraza002/Loan-Eligibility-Classification-Prediction.git)
 - [Titanic-Predicting-model](https://github.com/MuhammadSheraza002/Titanic-Predicting-model.git)
@@ -41,7 +42,7 @@ Feel free to explore my repositories for more!
 ## 📚 Education
 
 - **BS Data Science:** Punjab University, Lahore
-  - _4th Semester (Current)_
+  - _5th Semester (Current)_
   
 <div align="center">
   <h2 align="center">📫 Get in Touch</h2>
