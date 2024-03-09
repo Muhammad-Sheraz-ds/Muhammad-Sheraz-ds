@@ -40,7 +40,7 @@ Feel free to explore my repositories for more!
 
 ## 📚 Education
 
-<img align="right" width="150" height="90" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
+<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
 
 - **BS Data Science:**
 - **Punjab University College of Information and Technology, Lahore**
