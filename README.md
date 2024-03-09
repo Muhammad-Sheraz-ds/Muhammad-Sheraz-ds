@@ -42,7 +42,7 @@ Feel free to explore my repositories for more!
 
 <img align="left" width="75" height="75" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
 
-- **BS Data Science:** [Punjab University College of Information and Technology, Lahore](http://www.pu.edu.pk/)
+- **BS Data Science:** Punjab University College of Information and Technology, Lahore
   - _5th Semester (Current)_
 
   
