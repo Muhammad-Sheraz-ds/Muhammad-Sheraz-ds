@@ -31,7 +31,7 @@
 
 Here are some of the projects I've worked on:
 
-## Machine Learning Projects
+### Machine Learning Projects
 
 - [Property-Profit-Maximizer](https://github.com/MuhammadSheraza002/AI-Property-Profit-Maximizer.git)
 - [Movie-Genre-Predictor](https://github.com/MuhammadSheraza002/Movie-Genre-Predictor.git)
