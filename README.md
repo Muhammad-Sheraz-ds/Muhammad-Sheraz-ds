@@ -39,6 +39,12 @@ Here are some of the projects I've worked on:
 - [Loan-Eligibility-Classification-Prediction](https://github.com/MuhammadSheraza002/Loan-Eligibility-Classification-Prediction.git)
 - [Titanic-Predicting-model](https://github.com/MuhammadSheraza002/Titanic-Predicting-model.git)
 
+### Deep Learning Projects
+
+- [Emotion-Detection-Using-CNN](https://github.com/MuhammadSheraza002/Emotion-Detection-Using-CNN.git)
+- [Cat-vs-Dog-Image-Classifier](https://github.com/MuhammadSheraza002/Cat-vs-Dog-Image-Classifier.git)
+
+
 Feel free to explore my repositories for more!
 
 ## 📚 Education
