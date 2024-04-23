@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 ### Deep Learning Projects
 
-- [Emotion-Detection-Using-CNN](https://github.com/MuhammadSheraza002/Emotion-Detection-Using-CNN.git)
+- [Emotion-Detection-Using-CNN-and-FER-2013-Dataset](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset.git)
 - [Cat-vs-Dog-Image-Classifier](https://github.com/MuhammadSheraza002/Cat-vs-Dog-Image-Classifier.git)
 
 ### Machine Learning Projects
