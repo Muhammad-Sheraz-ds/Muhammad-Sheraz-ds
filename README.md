@@ -34,15 +34,15 @@ Here are some of the projects I've worked on:
 ### Deep Learning Projects
 
 - [Emotion-Detection-Using-CNN-and-FER-2013-Dataset](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset.git)
-- [Cat-vs-Dog-Image-Classifier](https://github.com/MuhammadSheraza002/Cat-vs-Dog-Image-Classifier.git)
+- [Cat-vs-Dog-Image-Classifier](https://github.com/Muhammad-Sheraz-ds/Cat-vs-Dog-Image-Classifier.git)
 
 ### Machine Learning Projects
 
-- [Property-Profit-Maximizer](https://github.com/MuhammadSheraza002/AI-Property-Profit-Maximizer.git)
-- [Movie-Genre-Predictor](https://github.com/MuhammadSheraza002/Movie-Genre-Predictor.git)
-- [Analysing and Predicting Insurance Claim](https://github.com/MuhammadSheraza002/Predicting-Insurance-Claim.git)
-- [Loan-Eligibility-Classification-Prediction](https://github.com/MuhammadSheraza002/Loan-Eligibility-Classification-Prediction.git)
-- [Titanic-Predicting-model](https://github.com/MuhammadSheraza002/Titanic-Predicting-model.git)
+- [Property-Profit-Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer.git)
+- [Movie-Genres-Classifier](https://github.com/Muhammad-Sheraz-ds/Movie-Genres-Classifier.git)
+- [Analysing and Predicting Insurance Claim](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim.git)
+- [Loan-Eligibility-Classification-Prediction](https://github.com/Muhammad-Sheraz-ds/Loan-Eligibility-Classification-Prediction.git)
+- [Titanic-Predicting-model](https://github.com/Muhammad-Sheraz-ds/Titanic-Predicting-model.git)
 
 
 Feel free to explore my repositories for more!
