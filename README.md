@@ -44,6 +44,10 @@ Here are some of the projects I've worked on:
 - [Loan-Eligibility-Classification-Prediction](https://github.com/Muhammad-Sheraz-ds/Loan-Eligibility-Classification-Prediction.git)
 - [Titanic-Predicting-model](https://github.com/Muhammad-Sheraz-ds/Titanic-Predicting-model.git)
 
+### Natural Language Processing Projects
+
+- [Quora-Question-Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs.git)
+
 
 Feel free to explore my repositories for more!
 
