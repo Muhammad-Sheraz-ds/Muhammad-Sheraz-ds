@@ -57,7 +57,7 @@ Feel free to explore my repositories for more!
 
 - **BS Data Science:**
 - **Punjab University College of Information and Technology, Lahore**
-- **5th Semester (Current)**
+- **6th Semester (Current)**
 
   
 <div align="center">
