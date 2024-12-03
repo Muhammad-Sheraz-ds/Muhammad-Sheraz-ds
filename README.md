@@ -1,88 +1,66 @@
-<!DOCTYPE html>
-<html>
+# Hello! 😊 I'm Muhammad Sheraz
 
-<head>
-    <title>Profile - Muhammad Sheraz</title>
-</head>
+I’m an AI Engineer and Data Scientist with a deep passion for **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**. With hands-on experience in developing and deploying end-to-end AI solutions, I turn complex challenges into efficient, data-driven results. 🚀
 
-<body>
-    <div>
-        <h1>Hello! 😊 Hi, I'm Muhammad Sheraz</h1>
-        <p>I’m an AI Engineer and Data Scientist with a deep passion for <strong>Artificial Intelligence (AI)</strong>, <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, <strong>Natural Language Processing (NLP)</strong>, <strong>Computer Vision</strong>, and <strong>Generative AI</strong>. With hands-on experience in developing and deploying end-to-end AI solutions, I turn complex challenges into efficient, data-driven results. 🚀</p>
-        
-        <p>Along with strong skills in building <strong>predictive models</strong>, <strong>chatbots</strong>, and working with AI models like <strong>GPT</strong>, <strong>Mistral</strong>, <strong>GroQ</strong>, and <strong>Chat Models</strong>, I’m focused on driving innovation through tailored solutions. I thrive in collaborative environments where creativity and technical excellence intersect to produce impactful results. 💡</p>
-        
-        <h2>🌟 Why Choose Me?</h2>
-        <ul>
-            <li><strong>Comprehensive Expertise:</strong> From Data Science to AI Engineering, I provide complete end-to-end solutions.</li>
-            <li><strong>Proven Track Record:</strong> Successfully built and deployed AI systems in healthcare, finance, and security sectors.</li>
-            <li><strong>Tailored Solutions:</strong> Crafting unique AI solutions aligned with specific business needs.</li>
-            <li><strong>Latest Tools:</strong> Proficient in Flux, Stable Diffusion, ChatGPT, LangChain, RAG, and more!</li>
-            <li><strong>On-Time Delivery:</strong> Meeting deadlines without compromising on quality ⏰</li>
-            <li><strong>Clear Communication:</strong> Regular updates and transparent collaboration throughout the project lifecycle 📞</li>
-        </ul>
+Along with strong skills in building **predictive models**, **chatbots**, and working with AI models like **GPT**, **Mistral**, **GroQ**, and **Chat Models**, I’m focused on driving innovation through tailored solutions. I thrive in collaborative environments where creativity and technical excellence intersect to produce impactful results. 💡
 
-        <h2>💼 Core Services</h2>
-        <h3>1. Artificial Intelligence & Machine Learning</h3>
-        <ul>
-            <li>Machine Learning Models: Supervised & Unsupervised learning, Regression, Classification, Clustering.</li>
-            <li>Predictive Modeling: Analyzing data trends for future forecasting 📊.</li>
-            <li>Natural Language Processing (NLP): Text analytics, sentiment analysis, chatbot development, and conversational AI.</li>
-            <li>Generative AI: Building advanced Text-to-Image, Image-to-Text, and Synthetic Content using tools like Stable Diffusion and Flux.</li>
-        </ul>
+## 🌟 Why Choose Me?
 
-        <h3>2. Deep Learning & Computer Vision</h3>
-        <ul>
-            <li>Image Classification & Processing: Building CNNs for visual recognition tasks.</li>
-            <li>Object Detection: Using models like YOLO and Faster R-CNN for real-time applications 🖼️.</li>
-            <li>Segmentation Models: Semantic & instance segmentation with U-Net, Mask R-CNN, etc.</li>
-            <li>Generative Models: Developing GANs and other architectures for image synthesis 🤖.</li>
-        </ul>
+- **Comprehensive Expertise**: From Data Science to AI Engineering, I provide complete end-to-end solutions.
+- **Proven Track Record**: Successfully built and deployed AI systems in healthcare, finance, and security sectors.
+- **Tailored Solutions**: Crafting unique AI solutions aligned with specific business needs.
+- **Latest Tools**: Proficient in Flux, Stable Diffusion, ChatGPT, LangChain, RAG, and more!
+- **On-Time Delivery**: Meeting deadlines without compromising on quality ⏰
+- **Clear Communication**: Regular updates and transparent collaboration throughout the project lifecycle 📞
 
-        <h3>3. Chatbots & Conversational AI</h3>
-        <ul>
-            <li>ChatGPT-Based Development: Designing intelligent chatbots for automation and customer support.</li>
-            <li>LangChain & RAG Models: Crafting Retrieval-Augmented Generative AI for dynamic user interactions.</li>
-            <li>Speech-to-Speech Chatbots: Expertise in speech-based systems, including a mental health chatbot in Urdu 💬.</li>
-        </ul>
+## 💼 Core Services
 
-        <h3>4. Data Science & Visualization</h3>
-        <ul>
-            <li>Data Wrangling & ETL: Preprocessing and organizing data for analysis.</li>
-            <li>Data Analysis & Visualization: Creating actionable insights using tools like Matplotlib, Seaborn, and Plotly 📈.</li>
-            <li>Data Warehousing: Designing robust data pipelines for large-scale analytics 🏗️.</li>
-        </ul>
+### 1. Artificial Intelligence & Machine Learning
+- **Machine Learning Models**: Supervised & Unsupervised learning, Regression, Classification, Clustering.
+- **Predictive Modeling**: Analyzing data trends for future forecasting 📊.
+- **Natural Language Processing (NLP)**: Text analytics, sentiment analysis, chatbot development, and conversational AI.
+- **Generative AI**: Building advanced Text-to-Image, Image-to-Text, and Synthetic Content using tools like Stable Diffusion and Flux.
 
-        <h3>5. AI Deployment & Integration</h3>
-        <ul>
-            <li>Edge AI: Deploying models on devices like NVIDIA Jetson and Raspberry Pi.</li>
-            <li>Web Deployment: Integrating AI models into applications using Flask and FastAPI ☁️.</li>
-        </ul>
+### 2. Deep Learning & Computer Vision
+- **Image Classification & Processing**: Building CNNs for visual recognition tasks.
+- **Object Detection**: Using models like YOLO and Faster R-CNN for real-time applications 🖼️.
+- **Segmentation Models**: Semantic & instance segmentation with U-Net, Mask R-CNN, etc.
+- **Generative Models**: Developing GANs and other architectures for image synthesis 🤖.
 
-        <h2>🔧 Technical Expertise</h2>
-        <ul>
-            <li><strong>Programming Languages:</strong> Python, SQL, JavaScript.</li>
-            <li><strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, Keras, Hugging Face, Scikit-learn, Stable Diffusion, Flux, OpenCV.</li>
-            <li><strong>NLP Tools:</strong> ChatGPT, LangChain, RAG, NLTK, SpaCy.</li>
-            <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB.</li>
-            <li><strong>Deployment & DevOps:</strong> Flask, Docker, Git, CI/CD (Jenkins, CircleCI).</li>
-        </ul>
+### 3. Chatbots & Conversational AI
+- **ChatGPT-Based Development**: Designing intelligent chatbots for automation and customer support.
+- **LangChain & RAG Models**: Crafting Retrieval-Augmented Generative AI for dynamic user interactions.
+- **Speech-to-Speech Chatbots**: Expertise in speech-based systems, including a mental health chatbot in Urdu 💬.
 
-        <h2>🏆 Featured Projects</h2>
-        <ul>
-            <li><strong>Emotion Detection Using CNN:</strong> Real-time emotion recognition using the FER-2013 dataset.</li>
-            <li><strong>Text-to-Image Generation:</strong> Built AI models using Stable Diffusion for creative content synthesis.</li>
-            <li><strong>Speech-to-Speech Urdu Chatbot:</strong> A conversational AI system for mental health support, acting as a virtual psychiatrist 🧠💬.</li>
-            <li><strong>Facial Recognition System:</strong> Leveraged Hugging Face and LangChain for authentication.</li>
-            <li><strong>Loan Eligibility Prediction:</strong> Built a predictive model for evaluating loan applications.</li>
-        </ul>
+### 4. Data Science & Visualization
+- **Data Wrangling & ETL**: Preprocessing and organizing data for analysis.
+- **Data Analysis & Visualization**: Creating actionable insights using tools like Matplotlib, Seaborn, and Plotly 📈.
+- **Data Warehousing**: Designing robust data pipelines for large-scale analytics 🏗️.
 
-        <h2>🔑 You Can Find Me with These Keywords</h2>
-        <p>Data Science, Machine Learning, Python Programming, Data Analysis, Predictive Modeling, Deep Learning, Data Visualization, NLP, TensorFlow, PyTorch, Hugging Face, Chatbots, Generative AI, Computer Vision, Speech-to-Text, Text-to-Image, Scikit-learn.</p>
-    </div>
-</body>
+### 5. AI Deployment & Integration
+- **Edge AI**: Deploying models on devices like NVIDIA Jetson and Raspberry Pi.
+- **Web Deployment**: Integrating AI models into applications using Flask and FastAPI ☁️.
 
-</html>
+## 🔧 Technical Expertise
+
+- **Programming Languages**: Python, SQL, JavaScript.
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, Scikit-learn, Stable Diffusion, Flux, OpenCV.
+- **NLP Tools**: ChatGPT, LangChain, RAG, NLTK, SpaCy.
+- **Databases**: MySQL, PostgreSQL, MongoDB.
+- **Deployment & DevOps**: Flask, Docker, Git, CI/CD (Jenkins, CircleCI).
+
+## 🏆 Featured Projects
+
+- **Emotion Detection Using CNN**: Real-time emotion recognition using the FER-2013 dataset.
+- **Text-to-Image Generation**: Built AI models using Stable Diffusion for creative content synthesis.
+- **Speech-to-Speech Urdu Chatbot**: A conversational AI system for mental health support, acting as a virtual psychiatrist 🧠💬.
+- **Facial Recognition System**: Leveraged Hugging Face and LangChain for authentication.
+- **Loan Eligibility Prediction**: Built a predictive model for evaluating loan applications.
+
+## 🔑 You Can Find Me with These Keywords
+
+Data Science, Machine Learning, Python Programming, Data Analysis, Predictive Modeling, Deep Learning, Data Visualization, NLP, TensorFlow, PyTorch, Hugging Face, Chatbots, Generative AI, Computer Vision, Speech-to-Text, Text-to-Image, Scikit-learn.
+
 
 
 
