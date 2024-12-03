@@ -2,28 +2,30 @@
 <html>
 
 <head>
+    <title>Profile - Muhammad Sheraz</title>
 </head>
 
 <body>
     <div>
-        <h1>Hello! 😊  Hi, I'm Muhammad Sheraz </h1>
-        <p>A proficient Machine Learning Engineer and Data Scientist with expertise in programming languages, ML frameworks,
-            and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed
-            to delivering top-notch results.</p>
-        <p>Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My
-            technical skills encompass Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras,
-            MySQL and more, along with proficiency in NLP, Data Analysis, Data Visualization, and Statistical Analysis.</p>
-        <p>I have worked on impactful projects, including deploying ML models and building Face Recognition features using Hugging-Face and Langchain.</p>
-        <p>In addition to my professional pursuits, I enjoy playing cricket 🏏 </p>
-        <p>Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful
-            projects and create innovative solutions that redefine the realm of AI and Data Science.</p>
-        <p>Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝</p>
-        <b><h3 style="color:red">Feel free to connect with me on GitHub and appreciate my work!</h3></b>
+        <h1>👨‍💻 About Me</h1>
+        <p>Hello! 😊 I'm <strong>Muhammad Sheraz</strong>, an AI Engineer and Data Scientist with a strong focus on <strong>Artificial Intelligence (AI)</strong>, <strong>Machine Learning (ML)</strong>, <strong>Deep Learning (DL)</strong>, <strong>Computer Vision</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Generative AI</strong>. I have experience in building data-driven solutions to solve complex problems and deliver impactful results.</p>
+        <p>My work includes hands-on experience with <strong>LLMs</strong>, <strong>Chatbots</strong>, and AI models like <strong>GPT</strong>, <strong>Mistral</strong>, <strong>GroQ</strong>, and <strong>Chat Models</strong>.</p>
+        <p>I'm passionate about applying AI to create innovative solutions, whether it's through predictive modeling, chatbot development, or image processing. 💡</p>
+
+        <h2>🌟 Skills & Expertise</h2>
+        <ul>
+            <li><strong>Machine Learning:</strong> Supervised and unsupervised learning, regression, classification, clustering.</li>
+            <li><strong>Natural Language Processing:</strong> Text analytics, sentiment analysis, chatbot development, and conversational AI.</li>
+            <li><strong>Generative AI:</strong> Building advanced Text-to-Image, Image-to-Text, and synthetic content.</li>
+            <li><strong>Deep Learning & Computer Vision:</strong> CNNs, object detection, image segmentation, and generative models.</li>
+            <li><strong>AI Deployment:</strong> Experience with deploying models on edge devices and web applications using Flask and FastAPI.</li>
+        </ul>
+
+
     </div>
 </body>
 
 </html>
-
 
 
 
