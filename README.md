@@ -36,7 +36,6 @@ Over the years, I have developed a strong foundation in building and deploying e
 - **Data Pipelines**: I design scalable and efficient data pipelines to support large-scale analytics.
 
 ### 5. **AI Deployment & Integration**
-- **Edge AI**: I deploy AI models on edge devices such as **NVIDIA Jetson** and **Raspberry Pi**, enabling real-time AI processing directly on the device.
 - **Web Integration**: I integrate AI models into web applications using **Flask** and **FastAPI**, facilitating seamless deployment of AI systems within existing infrastructures.
 
 ## 🔧 My Technical Skills
