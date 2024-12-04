@@ -38,11 +38,36 @@ Over the years, I have developed a strong foundation in building and deploying e
 ### 5. **AI Deployment & Integration**
 - **Web Integration**: I integrate AI models into web applications using **Flask** and **FastAPI**, facilitating seamless deployment of AI systems within existing infrastructures.
 
-## 🔧 My Technical Skills
+## 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, JavaScript
-- **Libraries & Frameworks**: TensorFlow, PyTorch, Keras, Hugging Face, Scikit-learn, OpenCV, Stable Diffusion, Flux
-- **NLP Tools**: ChatGPT, LangChain,
+### Programming Languages
+- Python, JavaScript, HTML/CSS, SQL
+
+### Frameworks and Libraries
+- TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, OpenCV, Hugging Face, LangChain
+
+### Developer Tools
+- Git, GitHub, Docker, Jupyter Notebook, VS Code, Google Colab, PyCharm
+
+### Natural Language Processing (NLP) and Conversational AI
+- NLTK, spaCy, BERT, GPT Models, Retrieval-Augmented Generation (RAG), Sentiment Analysis, Text Classification, ChatGPT, Speech-to-Text and Text-to-Speech APIs
+
+### Machine Learning and Artificial Intelligence
+- Supervised Learning, Unsupervised Learning, Deep Learning, Generative AI (GANs, Diffusion Models), MLOps, Attention Mechanisms, Large Language Models (LLMs)
+
+### Data Science and Analytics
+- Exploratory Data Analysis (EDA), Data Wrangling, Feature Engineering, Data Visualization, Statistical Analysis
+
+### Deployment and Integration
+- Web Development: Flask, FastAPI, React  
+- Scalable Systems: API Integration, Model Deployment with Docker
+
+### Domains and Applications
+- Computer Vision: Object Detection, Image Classification, Semantic Segmentation  
+- Chatbots: AI-based chat systems, Language Modeling  
+- Data Engineering: Building ETL Pipelines, Scalable Data Systems  
+- Generative AI: Text-to-Image, Image-to-Text  
+
 
 
 
