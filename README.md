@@ -47,7 +47,7 @@ Over the years, I have developed a strong foundation in building and deploying e
 - TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, OpenCV, Hugging Face, LangChain
 
 ### Developer Tools
-- Git, GitHub, Docker, Jupyter Notebook, VS Code, Google Colab, PyCharm
+- Git, GitHub, Docker
 
 ### Natural Language Processing (NLP) and Conversational AI
 - NLTK, spaCy, BERT, GPT Models, Retrieval-Augmented Generation (RAG), Sentiment Analysis, Text Classification, ChatGPT, Speech-to-Text and Text-to-Speech APIs
@@ -61,13 +61,6 @@ Over the years, I have developed a strong foundation in building and deploying e
 ### Deployment and Integration
 - Web Development: Flask, FastAPI, React  
 - Scalable Systems: API Integration, Model Deployment with Docker
-
-### Domains and Applications
-- Computer Vision: Object Detection, Image Classification, Semantic Segmentation  
-- Chatbots: AI-based chat systems, Language Modeling  
-- Data Engineering: Building ETL Pipelines, Scalable Data Systems  
-- Generative AI: Text-to-Image, Image-to-Text  
-
 
 
 
