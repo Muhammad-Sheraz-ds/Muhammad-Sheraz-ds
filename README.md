@@ -1,6 +1,6 @@
 # Hello! 😊 I'm Muhammad Sheraz
 
-I am an **AI Engineer** and **Data Scientist** with a deep passion for leveraging the power of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to create innovative solutions that make a tangible impact. My journey in this field has equipped me with expertise in **Deep Learning (DL)**, **Computer Vision**, **Natural Language Processing (NLP)**, and **Generative AI**. I thrive on tackling complex challenges and transforming them into practical, data-driven solutions.
+I am an **Python Developer** and **Data Scientist** with a deep passion for leveraging the power of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to create innovative solutions that make a tangible impact. My journey in this field has equipped me with expertise in **Deep Learning (DL)**, **Computer Vision**, **Natural Language Processing (NLP)**, and **Generative AI**. I thrive on tackling complex challenges and transforming them into practical, data-driven solutions.
 
 Over the years, I have developed a strong foundation in building and deploying end-to-end AI systems, ranging from **predictive modeling** to **AI-powered chatbots** and **image processing**. I have hands-on experience with large language models (LLMs) such as **GPT**, **Mistral**, and **GroQ**, and I am dedicated to creating conversational AI systems that deliver dynamic, interactive user experiences.
 
