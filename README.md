@@ -1,10 +1,10 @@
-# Hello! I'm Muhammad Sheraz
+# Hello! 😊 I'm Muhammad Sheraz
 
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
 
 
-## 💼 Projects
+## 🌱 Projects
 
 ### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
 - Designed and fine-tuned a **custom CNN**, incorporating **transfer learning** with models like **ResNet50** for high accuracy on the **FER-2013 dataset**.  
