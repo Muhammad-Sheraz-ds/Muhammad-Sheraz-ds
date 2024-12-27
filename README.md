@@ -75,8 +75,8 @@ Thank you for visiting my GitHub profile! I am eager to collaborate on innovativ
   </a>
 
    <!-- Portfolio Badge -->
-  <a href="https://github.com/Muhammad-Sheraz-ds">
-    <img src="https://img.shields.io/badge/Portfolio-Muhammad%20Sheraz-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://sheraz.codeflex.org/">
+    <img src="https://img.shields.io/badge/Portfolio-sheraz.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </div>
 
