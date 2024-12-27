@@ -6,45 +6,27 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 ## 💼 Professional Achievements and Projects
 
-### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)
-- Built and fine-tuned a **custom CNN** and applied **transfer learning** for detecting emotional states in real-time using the **FER-2013 dataset**.  
-- Implemented a dynamic, live emotion detection system for video streams.  
+### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
+- Designed and fine-tuned a **custom CNN**, incorporating **transfer learning** with models like **ResNet50** for high accuracy on the **FER-2013 dataset**.  
+- Developed a real-time emotion detection system for both images and live video streams using **OpenCV**.  
+- Created an intuitive frontend with **HTML, CSS, and JavaScript**, and deployed the application on **Docker** for scalable use.
 
-### [Quora Question Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)
-- Developed an NLP model to assess semantic similarity between questions for **Quora Question Pairs**, utilizing **advanced text processing** techniques.  
-- Delivered a user-friendly interface with **Streamlit**, deployed using **Docker** for scalability.
+### [Quora Question Pairs Semantic Similarity](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)  
+- Built an NLP-based model to evaluate semantic similarity between question pairs using **tokenization, stemming**, and other advanced preprocessing techniques.  
+- Delivered a **Streamlit-powered user interface**, ensuring ease of use and scalability, with deployment via **Docker**.
 
-### [Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)
-- Created an end-to-end AI system to **predict real estate prices**, optimizing property profits.  
-- Deployed a user-friendly interface using **FastAPI** and **Streamlit**, streamlining the prediction process.
+### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
+- Developed an AI-driven system for **real estate price prediction**, optimizing property profits with machine learning models.  
+- Integrated a user-centric interface using **FastAPI** and **Streamlit**, offering streamlined workflows for users.  
+- Applied data preprocessing, feature engineering, and visualization to enhance model performance and insights.
 
-### [Insurance Claims Prediction](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)
-- Conducted data preprocessing, exploratory analysis, and model selection for **insurance claims prediction**.  
-- Designed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
-
----
-
-## 🛠️ Technologies and Tools
-
-### Languages
-- **Python**, HTML/CSS, JavaScript, SQL  
-
-### Frameworks
-- **TensorFlow**, PyTorch, Keras, FastAPI, React  
-
-### Tools
-- Pandas, NumPy, Seaborn, Matplotlib, Streamlit, Docker, Selenium  
-
-### Technologies and Platforms
-- Hugging Face, LangChain, OpenCV, NLTK, spaCy, RESTful APIs, CI/CD Pipelines, AWS Sagemaker, Google Cloud Platform (GCP), ChatGPT  
+### [Insurance Claims Prediction System](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
+- Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
+- Created an interactive **Streamlit app** for real-time claim predictions with actionable insights through data visualization using **Matplotlib** and **Seaborn**.  
+- Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
 ---
 
-## 🌟 Soft Skills
-- Problem-solving, Critical Thinking, Collaboration, Adaptability  
-- Communication, Self-motivation, Attention to Detail, Continuous Learning  
-
----
 
 ## 📬 Let's Connect!
 
