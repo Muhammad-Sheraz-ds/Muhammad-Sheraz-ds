@@ -1,46 +1,8 @@
 # Hello! 😊 I'm Muhammad Sheraz
 
-*  
-
-📞 **Phone:** +92 345-8601098  
-✉️ **Email:** [sheraz.ds.pucit@gmail.com](mailto:sheraz.ds.pucit@gmail.com)  
-🌐 **Portfolio:** [sheraz.codeflex.org](https://sheraz.codeflex.org/)  
-👔 **LinkedIn:** [linkedin.com/in/muhammad-sheraz-ds](https://www.linkedin.com/in/muhammad-sheraz-ds/)  
-💻 **GitHub:** [github.com/Muhammad-Sheraz-ds](https://github.com/Muhammad-Sheraz-ds)  
-
----
-
-## 🌟 About Me  
 Skilled **Python Developer** and **Data Scientist** with expertise in **machine learning**, **data analysis**, and **software development**. I am passionate about leveraging data and AI to create impactful solutions, improving processes, and solving real-world problems with cutting-edge technology.  
 
----
 
-## 🎓 Education  
-**Punjab University College of Information Technology (PUCIT)**  
-_Bachelor of Science in Data Science_  
-📍 Lahore, Pakistan | **November 2021 – Present**  
-
----
-
-## 💼 Professional Experience  
-
-### **Devfum**  
-*Data Science Intern* | **Lahore, Pakistan**  
-⏳ **August 2024 – October 2024**  
-- 🔧 Optimized a generative AI platform using **Stable Diffusion** and **LoRA** for text-to-image coloring templates.  
-- 🖼️ Automated workflows, fine-tuned AI models, and reduced response times through **Flux** integration.  
-
----
-
-## 💡 Final Year Project  
-
-### **Urdu Speech-to-Speech Mental Health Chatbot**  
-*LLMs, FastAPI, React, Docker*  
-- 🎙️ Developed a voice-based chatbot to address **mental health issues** in the Urdu-speaking community.  
-- 🤖 Leveraging **RAG (Retrieval-Augmented Generation)** for accuracy and fine-tuned models on mental health-specific data.  
-- 🛠️ Enabled real-time interaction using **speech APIs**, ensuring scalability with Dockerized deployment.  
-
----
 
 ## 🛠️ Projects  
 
@@ -60,46 +22,6 @@ _Bachelor of Science in Data Science_
 - 📊 End-to-end project including **EDA**, feature engineering, and model deployment.  
 - 🚀 Hosted model on Docker Hub, making predictions accessible through **Streamlit**.  
 
----
-
-## 🧠 Technical Skills  
-
-### Languages  
-- 💻 Python  
-- 🌐 HTML/CSS, JavaScript  
-- 🗄️ SQL  
-
-### Tools & Frameworks  
-- 🛠️ TensorFlow, PyTorch, Scikit-learn, Keras  
-- 📊 NumPy, Pandas, Matplotlib, Seaborn  
-- 🌐 Streamlit, Beautiful Soup, Selenium  
-- 🤗 Hugging Face, LangChain  
-
-### Platforms & Technologies  
-- 🐳 Docker  
-- 🌱 Git, GitHub  
-
----
-
-## 🌟 Soft Skills  
-- 🧩 Problem-solving  
-- 🔍 Attention to Detail  
-- 🤝 Teamwork & Collaboration  
-- 📈 Continuous Learning  
-- 💬 Communication  
-
----
-
-## 📈 GitHub Stats  
-![Sheraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sheraz-ds&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sheraz-ds&layout=compact&theme=radical)  
-
----
-
-## 🔗 Let's Connect!  
-Feel free to reach out through any of the platforms listed above. I'm always open to discussing ideas, collaborations, or opportunities!
-
----
 
 ## Technical Skills  
 
