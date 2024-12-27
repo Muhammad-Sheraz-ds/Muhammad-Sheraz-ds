@@ -1,8 +1,75 @@
 # Hello! 😊 I'm Muhammad Sheraz
 
-I am an **Python Developer** and **Data Scientist** with a deep passion for leveraging the power of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to create innovative solutions that make a tangible impact. My journey in this field has equipped me with expertise in **Deep Learning (DL)**, **Computer Vision**, **Natural Language Processing (NLP)**, and **Generative AI**. I thrive on tackling complex challenges and transforming them into practical, data-driven solutions.
+# Muhammad Sheraz  
+**Python Developer / Data Scientist**  
 
-Over the years, I have developed a strong foundation in building and deploying end-to-end AI systems, ranging from **predictive modeling** to **AI-powered chatbots** and **image processing**. I have hands-on experience with large language models (LLMs) such as **GPT**, **Mistral**, and **GroQ**, and I am dedicated to creating conversational AI systems that deliver dynamic, interactive user experiences.
+📞 +92 345-8601098  
+✉️ [sheraz.ds.pucit@gmail.com](mailto:sheraz.ds.pucit@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-ds/) | [GitHub](https://github.com/Muhammad-Sheraz-ds) | [Portfolio](https://sheraz.codeflex.org/)  
+
+---
+
+## Career Objective  
+Skilled Python Developer and Data Scientist with expertise in programming, machine learning, and data analysis. Passionate about leveraging data to drive impactful solutions and continuously improve performance in dynamic environments.
+
+---
+
+## Education  
+**Punjab University College of Information Technology**  
+_Bachelor of Science in Data Science_  
+**Lahore, Pakistan** | November 2021 – Present  
+
+---
+
+## Experience  
+
+### Devfum | Data Science Intern  
+**Lahore** | August 2024 – October 2024  
+- Optimized a generative AI platform with Stable Diffusion models and LoRA, automating black-and-white text-to-image coloring templates.  
+- Scraped images, fine-tuned Stable Diffusion models with LoRA, and used Flux to improve performance and reduce response times.  
+
+---
+
+## Final Year Project (FYP)  
+
+**Urdu Speech-to-Speech Mental Health Chatbot**  
+*LLMs, FastAPI, React, Docker*  
+- Developing a speech-to-speech Urdu chatbot to support mental health, focusing on issues like stress and depression.  
+- Addressing the lack of mental health support in the Urdu-speaking community and improving accessibility to mental health resources through voice-based interaction.  
+- Leveraging LLMs with RAG for accuracy, fine-tuning on mental health data, and enabling real-time voice interaction via speech APIs, using React, FastAPI, and Docker for deployment.  
+
+---
+
+## Projects  
+
+### [Emotion Detection Using CNN and FER-2013 Dataset](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
+*Python, TensorFlow, Keras, OpenCV, ResNet50, VGG16*  
+- Built and optimized custom CNN, applied transfer learning, and used image augmentation and class weights to address class imbalance and improve performance across 7 emotion labels.  
+- Deployed the model for real-time emotion detection in live video streams, showcasing emotion labels dynamically.  
+
+### [Quora Question Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)  
+*Python, NLTK, spaCy, scikit-learn, Streamlit, Docker*  
+- Developed NLP model to assess semantic similarity between questions, leveraging advanced text processing techniques.  
+- Created a user-friendly interface using Streamlit, and deployed the model on Docker for enhanced scalability and integration.  
+
+### [Property-Profit-Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
+*Python, scikit-learn, Streamlit, FastAPI*  
+- Developed an end-to-end AI solution to optimize real estate profits by predicting property sale prices.  
+- Managed the ML lifecycle and deployed a user-friendly interface for predictions using Streamlit and FastAPI.  
+
+### [Analyzing and Predicting Insurance Claim](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
+*Python, scikit-learn, Streamlit, Docker*  
+- End-to-end project handling data preprocessing, EDA, feature engineering, model selection, and hyperparameter tuning.  
+- Designed a user-friendly interface using Streamlit, and deployed the model on both Docker Hub and Streamlit.  
+
+---
+
+## Technical Skills  
+
+- **Programming Languages:** Python, HTML/CSS, JavaScript, SQL  
+- **Developer Tools:** Git, GitHub, Docker  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, Beautiful Soup, Selenium, Hugging Face, LangChain  
+- **Soft Skills:** Problem-solving, Critical Thinking, Collaboration, Adaptability, Communication, Self-motivation, Attention to Detail, Teamwork, Continuous Learning  
 
 ## 💼 What I Can Do for You
 
