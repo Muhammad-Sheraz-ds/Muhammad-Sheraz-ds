@@ -1,111 +1,64 @@
-# Hello! 😊 I'm Muhammad Sheraz
+# Hello! I'm Muhammad Sheraz
 
-Skilled **Python Developer** and **Data Scientist** with expertise in **machine learning**, **data analysis**, and **software development**. I am passionate about leveraging data and AI to create impactful solutions, improving processes, and solving real-world problems with cutting-edge technology.  
+A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
+---
 
+## 💼 Professional Achievements and Projects
 
-## 🛠️ Projects  
+### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)
+- Built and fine-tuned a **custom CNN** and applied **transfer learning** for detecting emotional states in real-time using the **FER-2013 dataset**.  
+- Implemented a dynamic, live emotion detection system for video streams.  
 
-### [Emotion Detection Using CNN and FER-2013 Dataset](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
-- 🤖 Built and fine-tuned a **custom CNN** and applied **transfer learning** to detect 7 emotional states in real-time.  
-- 📹 Deployed a **real-time video processing system** to dynamically label emotions.  
+### [Quora Question Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)
+- Developed an NLP model to assess semantic similarity between questions for **Quora Question Pairs**, utilizing **advanced text processing** techniques.  
+- Delivered a user-friendly interface with **Streamlit**, deployed using **Docker** for scalability.
 
-### [Quora Question Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)  
-- 📝 Developed an **NLP pipeline** to evaluate the semantic similarity between questions using advanced text processing.  
-- 🌐 Built a user-friendly **Streamlit interface**, deployed using Docker for scalability and seamless integration.  
+### [Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)
+- Created an end-to-end AI system to **predict real estate prices**, optimizing property profits.  
+- Deployed a user-friendly interface using **FastAPI** and **Streamlit**, streamlining the prediction process.
 
-### [Property-Profit-Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
-- 🏠 Built an **end-to-end AI system** to predict real estate prices and optimize profits.  
-- 🖥️ Deployed an interactive interface using **FastAPI** and **Streamlit** for users.  
+### [Insurance Claims Prediction](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)
+- Conducted data preprocessing, exploratory analysis, and model selection for **insurance claims prediction**.  
+- Designed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
-### [Analyzing and Predicting Insurance Claims](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
-- 📊 End-to-end project including **EDA**, feature engineering, and model deployment.  
-- 🚀 Hosted model on Docker Hub, making predictions accessible through **Streamlit**.  
+---
 
+## 🛠️ Technologies and Tools
 
-## Technical Skills  
+### Languages
+- **Python**, HTML/CSS, JavaScript, SQL  
 
-- **Programming Languages:** Python, HTML/CSS, JavaScript, SQL  
-- **Developer Tools:** Git, GitHub, Docker  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, Beautiful Soup, Selenium, Hugging Face, LangChain  
-- **Soft Skills:** Problem-solving, Critical Thinking, Collaboration, Adaptability, Communication, Self-motivation, Attention to Detail, Teamwork, Continuous Learning  
+### Frameworks
+- **TensorFlow**, PyTorch, Keras, FastAPI, React  
 
-## 💼 What I Can Do for You
+### Tools
+- Pandas, NumPy, Seaborn, Matplotlib, Streamlit, Docker, Selenium  
 
-### 1. **AI & Machine Learning**
-- **Machine Learning Models**: Proficient in both supervised and unsupervised learning techniques, I build models for classification, regression, and clustering.
-- **Predictive Analytics**: I analyze historical data trends to forecast future events or outcomes with high accuracy.
-- **Natural Language Processing (NLP)**: I develop solutions for text analytics, sentiment analysis, and intelligent chatbots that understand and generate human language.
-- **Generative AI**: I create advanced systems capable of generating content, from **text-to-image** to **image-to-text**, utilizing tools like **Stable Diffusion** and **Flux**.
+### Technologies and Platforms
+- Hugging Face, LangChain, OpenCV, NLTK, spaCy, RESTful APIs, CI/CD Pipelines, AWS Sagemaker, Google Cloud Platform (GCP), ChatGPT  
 
-### 2. **Deep Learning & Computer Vision**
-- **CNN-based Image Classification**: I design Convolutional Neural Networks (CNNs) for visual recognition tasks, including object detection and image classification.
-- **Object Detection**: Experienced with models like **YOLO** and **Faster R-CNN**, I develop systems that detect objects in real-time for various applications.
-- **Segmentation**: I create models for **semantic** and **instance segmentation**, such as **U-Net** and **Mask R-CNN**, essential for fields like medical imaging and autonomous driving.
-- **Generative Models**: I have experience in developing **GANs** (Generative Adversarial Networks) to generate new images or videos.
+---
 
-### 3. **Chatbots & Conversational AI**
-- **Chatbot Development**: I build intelligent chatbots using **ChatGPT** and **LangChain**, suitable for applications ranging from customer support to virtual assistants.
-- **Retrieval-Augmented Generation (RAG)**: I integrate RAG models into chatbots to facilitate dynamic, knowledge-based conversations that enhance user experience.
-- **Speech-based AI**: I have developed speech-to-text and speech-to-speech systems, including an **Urdu-based mental health chatbot**, demonstrating my commitment to inclusive technology.
+## 🌟 Soft Skills
+- Problem-solving, Critical Thinking, Collaboration, Adaptability  
+- Communication, Self-motivation, Attention to Detail, Continuous Learning  
 
-### 4. **Data Science & Visualization**
-- **Data Wrangling & ETL**: I manage data cleaning, preprocessing, and organization to prepare data for analysis.
-- **Exploratory Data Analysis (EDA)**: Utilizing tools like **Matplotlib**, **Seaborn**, and **Plotly**, I visualize data to extract meaningful insights that inform decision-making.
-- **Data Pipelines**: I design scalable and efficient data pipelines to support large-scale analytics.
+---
 
-### 5. **AI Deployment & Integration**
-- **Web Integration**: I integrate AI models into web applications using **Flask** and **FastAPI**, facilitating seamless deployment of AI systems within existing infrastructures.
+## 📬 Let's Connect!
 
-## 🛠️ Technical Skills
+Feel free to reach out or explore my work:  
 
-### Programming Languages
-- Python, JavaScript, HTML/CSS, SQL
+- 📧 [Email](mailto:sheraz.ds.pucit@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-ds/)  
+- 🌐 [Portfolio](https://sheraz.codeflex.org/)  
+- 💻 [GitHub](https://github.com/Muhammad-Sheraz-ds)  
 
-### Frameworks and Libraries
-- TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, OpenCV, Hugging Face, LangChain
+---
 
-### Developer Tools
-- Git, GitHub, Docker
+Thank you for visiting my GitHub profile! I am eager to collaborate on innovative projects and create impactful solutions in **AI and Data Science**.
 
-### Natural Language Processing (NLP) and Conversational AI
-- NLTK, spaCy, BERT, GPT Models, Retrieval-Augmented Generation (RAG), Sentiment Analysis, Text Classification, ChatGPT, Speech-to-Text and Text-to-Speech APIs
-
-### Machine Learning and Artificial Intelligence
-- Supervised Learning, Unsupervised Learning, Deep Learning, Generative AI (GANs, Diffusion Models), MLOps, Attention Mechanisms, Large Language Models (LLMs)
-
-### Data Science and Analytics
-- Exploratory Data Analysis (EDA), Data Wrangling, Feature Engineering, Data Visualization, Statistical Analysis
-
-### Deployment and Integration
-- Web Development: Flask, FastAPI, React  
-- Scalable Systems: API Integration, Model Deployment with Docker
-
-
-
-# 🌱 Projects
-
-Here are some of the projects I've worked on:
-
-### Deep Learning Projects
-
-- [Emotion-Detection-Using-CNN-and-FER-2013-Dataset](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset.git)
-- [Cat-vs-Dog-Image-Classifier](https://github.com/Muhammad-Sheraz-ds/Cat-vs-Dog-Image-Classifier.git)
-
-### Machine Learning Projects
-
-- [Property-Profit-Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer.git)
-- [Movie-Genres-Classifier](https://github.com/Muhammad-Sheraz-ds/Movie-Genres-Classifier.git)
-- [Analysing and Predicting Insurance Claim](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim.git)
-- [Loan-Eligibility-Classification-Prediction](https://github.com/Muhammad-Sheraz-ds/Loan-Eligibility-Classification-Prediction.git)
-- [Titanic-Predicting-model](https://github.com/Muhammad-Sheraz-ds/Titanic-Predicting-model.git)
-
-### Natural Language Processing Projects
-
-- [Quora-Question-Pairs](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs.git)
-
-
-Feel free to explore my repositories for more!
 
 ## 📚 Education
 
