@@ -2,7 +2,7 @@
 
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
----
+
 
 ## 💼 Professional Achievements and Projects
 
@@ -25,7 +25,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Created an interactive **Streamlit app** for real-time claim predictions with actionable insights through data visualization using **Matplotlib** and **Seaborn**.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
----
+
 
 
 ## 📬 Let's Connect!
