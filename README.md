@@ -73,6 +73,11 @@ Thank you for visiting my GitHub profile! I am eager to collaborate on innovativ
   <a href="https://leetcode.com/MuhammadSheraz/">
     <img src="https://img.shields.io/badge/LeetCode-Muhammad%20Sheraz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
+   <!-- Portfolio Badge -->
+  <a href="https://github.com/Muhammad-Sheraz-ds">
+    <img src="https://img.shields.io/badge/Portfolio-Muhammad%20Sheraz-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 
