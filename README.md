@@ -3,11 +3,11 @@
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
 
-
 ## 🌱 Projects
 
 ### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
-- Designed and fine-tuned a **custom CNN**, incorporating **transfer learning** with models like **ResNet50** for high accuracy on the **FER-2013 dataset**.  
+- Developed 𝐂𝐍𝐍𝐬 and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
+- Handled imbalanced datasets by 𝐝𝐚𝐭𝐚 𝐚𝐮𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 and **class weight** technique.
 - Developed a real-time emotion detection system for both images and live video streams using **OpenCV**.  
 - Created an intuitive frontend with **HTML, CSS, and JavaScript**, and deployed the application on **Docker** for scalable use.
 
@@ -24,10 +24,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
 - Created an interactive **Streamlit app** for real-time claim predictions with actionable insights through data visualization using **Matplotlib** and **Seaborn**.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
-
-
-
-
 
 
 ## 📚 Education
