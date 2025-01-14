@@ -24,7 +24,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
-
+<div>
 ## 📚 Education
 
 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
@@ -33,7 +33,9 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - **Punjab University College of Information and Technology, Lahore**
 - **7th Semester (Current)**
 
-----  
+
+</div>
+
 <div align="center">
   <h2 align="center">📫 Get in Touch</h2>
   
