@@ -17,12 +17,11 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 ### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
 - Developed an AI-driven system for **real estate price prediction**, optimizing property profits with machine learning models.  
-- Integrated a user-centric interface using **FastAPI** and **Streamlit**, offering streamlined workflows for users.  
 - Applied data preprocessing, feature engineering, and visualization to enhance model performance and insights.
+- Integrated a user-centric interface using **FastAPI** and **Streamlit**, offering streamlined workflows for users.  
 
 ### [Insurance Claims Prediction System](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
 - Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
-- Created an interactive **Streamlit app** for real-time claim predictions with actionable insights through data visualization using **Matplotlib** and **Seaborn**.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
 
