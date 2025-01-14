@@ -15,6 +15,12 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Built an NLP-based model to evaluate semantic similarity between question pairs using **tokenization, stemming**, and other advanced preprocessing techniques.  
 - Delivered a **Streamlit-powered user interface**, ensuring ease of use and scalability, with deployment via **Docker**.
 
+### [Sign Language Recognition System](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
+
+- Developed a deep learning model using a **CNN** ,Enabled real-time recognition of sign language gestures, bridging communication gaps for individuals who use sign language.
+- Built a backend using **Flask** and a responsive frontend using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for real-time gesture recognition.
+
+
 ### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
 - Developed an AI-driven system for **real estate price prediction**, optimizing property profits with machine learning models.  
 - Applied data preprocessing, feature engineering, and visualization to enhance model performance and insights.
@@ -24,10 +30,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
-### [Sign Language Recognition System](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
-
-- Developed a deep learning model using a **CNN** ,Enabled real-time recognition of sign language gestures, bridging communication gaps for individuals who use sign language.
-- Built a backend using **Flask** and a responsive frontend using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for real-time gesture recognition.
 
 
 ## 📚 Education
