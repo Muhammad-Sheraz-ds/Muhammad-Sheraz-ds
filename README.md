@@ -6,8 +6,8 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 ## 🌱 Projects
 
 ### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
-- Developed 𝐂𝐍𝐍𝐬 and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
-- Handled imbalanced datasets by 𝐝𝐚𝐭𝐚 𝐚𝐮𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 and **class weight** technique.
+- Developed **CNNs** and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
+- Handled imbalanced datasets by **data augmentation** and **class weight** technique.
 - Developed a real-time emotion detection system for both images and live video streams using **OpenCV**.  
 - Created an intuitive frontend with **HTML, CSS, and JavaScript**, and deployed the application on **Docker** for scalable use.
 
