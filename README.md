@@ -24,7 +24,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
 - Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
-### [Sign Language Recognition System](https://github.com/your-username/sign-language-recognition](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
+### [Sign Language Recognition System](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
 
 - Developed a deep learning model using a **CNN** ,Enabled real-time recognition of sign language gestures, bridging communication gaps for individuals who use sign language.
 - Built a backend using **Flask** and a responsive frontend using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for real-time gesture recognition.
