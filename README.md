@@ -33,7 +33,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - **Punjab University College of Information and Technology, Lahore**
 - **7th Semester (Current)**
 
-  
+----  
 <div align="center">
   <h2 align="center">📫 Get in Touch</h2>
   
