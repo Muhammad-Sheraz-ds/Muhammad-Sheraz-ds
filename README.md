@@ -147,8 +147,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 	<a href="https://leetcode.com/u/MuhammadSheraz/">
 		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 	</a>
-	
-	
 	<a href="https://sheraz.codeflex.org/">
 		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 	</a>
@@ -160,6 +158,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 	</a>
 	<br />
 </p>
+
 
 
 
