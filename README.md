@@ -44,30 +44,31 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 <div align="center">
   <h2 align="center">📫 Get in Touch</h2>
   
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sheraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <!-- Email Badge -->
-  <a href="mailto:sheraz601050@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sheraz601050%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <!-- Kaggle Badge -->
-   <a href="https://www.kaggle.com/muhammadsheraza002">
-    <img src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-
-  <!-- LeetCode Badge -->
-  <a href="https://leetcode.com/MuhammadSheraz/">
-    <img src="https://img.shields.io/badge/LeetCode-Muhammad%20Sheraz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-   <!-- Portfolio Badge -->
-  <a href="https://sheraz.codeflex.org/">
-    <img src="https://img.shields.io/badge/Portfolio-sheraz.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
+<br/>
+<p align="center">
+	<a href="mailto:sheraz.ds.pucit@gmail.com">
+		<img  alt="sheraz.ds.pucit@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+	</a>
+	<a href="https://twitter.com/MuhammadSheraz">
+		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
+		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://leetcode.com/u/MuhammadSheraz/">
+		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+	</a>
+	<a href="https://sheraz.codeflex.org/">
+		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+	</a>
+	<a href="https://www.fiverr.com/sellers/sherazumarhayat/edit">
+		<img alt="Muhammad Sheraz | Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
+	</a>
+	<a href="https://www.upwork.com/freelancers/~01107342a905d58879">
+		<img alt="Muhammad Sheraz | Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
+	</a>
+	<br />
+</p>
 </div>
 
 
@@ -105,61 +106,11 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 
 
-## Tech Stack
-
-<p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23D67A00.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Seaborn-%2347A248.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hugging%20Face-%23FFDA44.svg?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="75" height="75" style="margin: 10px;"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" width="75" height="75" style="margin: 10px;"/> </a>
-</p>
 
 
 
 
-## Let's Connect
-<br/>
-<p align="center">
-	<a href="mailto:sheraz.ds.pucit@gmail.com">
-		<img  alt="sheraz.ds.pucit@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-	</a>
-	<a href="https://twitter.com/MuhammadSheraz">
-		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
-		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://leetcode.com/u/MuhammadSheraz/">
-		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-	</a>
-	<a href="https://sheraz.codeflex.org/">
-		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-	</a>
-	<a href="https://www.fiverr.com/sellers/sherazumarhayat/edit">
-		<img alt="Muhammad Sheraz | Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
-	</a>
-	<a href="https://www.upwork.com/freelancers/~01107342a905d58879">
-		<img alt="Muhammad Sheraz | Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
-	</a>
-	<br />
-</p>
+
 
 
 
