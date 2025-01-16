@@ -105,10 +105,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 
 
-
-Here’s your README in the **template format** you provided, with your **tools, technologies, and contact information**:
-
-```markdown
 ## Tech Stack
 
 <p align="center">
@@ -135,7 +131,6 @@ Here’s your README in the **template format** you provided, with your **tools,
   </a>
 </p>
 
----
 
 ## Let's Connect
 <br/>
@@ -156,11 +151,6 @@ Here’s your README in the **template format** you provided, with your **tools,
     <img alt="GitHub | Muhammad Sheraz" src="https://img.shields.io/badge/GitHub-Muhammad%20Sheraz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-```
-
-This format adheres to your given style and uses your specified **tools, usernames, and links**. Let me know if further adjustments are required!
-
-
 
 
 
