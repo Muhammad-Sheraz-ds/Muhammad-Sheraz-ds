@@ -135,22 +135,24 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 ## Let's Connect
 <br/>
 <p align="center">
-  <a href="mailto:sheraz601050@gmail.com">
-    <img alt="Email | Muhammad Sheraz" src="https://img.shields.io/badge/Email-sheraz601050%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242">
-    <img alt="LinkedIn | Muhammad Sheraz" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sheraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/MuhammadSheraz/">
-    <img alt="LeetCode | Muhammad Sheraz" src="https://img.shields.io/badge/LeetCode-Muhammad%20Sheraz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.kaggle.com/muhammadsheraza002">
-    <img alt="Kaggle | Muhammad Sheraz" src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://github.com/MuhammadSheraz">
-    <img alt="GitHub | Muhammad Sheraz" src="https://img.shields.io/badge/GitHub-Muhammad%20Sheraz-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+	<a href="mailto:sheraz601050@gmail.com">
+		<img  alt="sheraz601050@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+	</a>
+	<a href="https://twitter.com/MuhammadSheraz">
+		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
+		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://leetcode.com/MuhammadSheraz/">
+		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+	</a>
+	<a href="https://github.com/MuhammadSheraz">
+		<img alt="Muhammad Sheraz | GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	</a>
+	<br />
 </p>
+
 
 
 
