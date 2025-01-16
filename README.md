@@ -135,8 +135,8 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 ## Let's Connect
 <br/>
 <p align="center">
-	<a href="mailto:sheraz601050@gmail.com">
-		<img  alt="sheraz601050@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+	<a href="mailto:sheraz.ds.pucit@gmail.com">
+		<img  alt="sheraz.ds.pucit@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 	<a href="https://twitter.com/MuhammadSheraz">
 		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -144,14 +144,23 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
 		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://leetcode.com/MuhammadSheraz/">
+	<a href="https://leetcode.com/u/MuhammadSheraz/">
 		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 	</a>
-	<a href="https://github.com/MuhammadSheraz">
-		<img alt="Muhammad Sheraz | GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	
+	
+	<a href="https://sheraz.codeflex.org/">
+		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+	</a>
+	<a href="https://www.fiverr.com/sellers/sherazumarhayat/edit">
+		<img alt="Muhammad Sheraz | Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
+	</a>
+	<a href="https://www.upwork.com/freelancers/~01107342a905d58879">
+		<img alt="Muhammad Sheraz | Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
 	</a>
 	<br />
 </p>
+
 
 
 
