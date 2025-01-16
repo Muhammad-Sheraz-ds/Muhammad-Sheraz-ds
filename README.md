@@ -101,6 +101,69 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) 
 
+
+
+
+
+
+Here’s your README in the **template format** you provided, with your **tools, technologies, and contact information**:
+
+```markdown
+## Tech Stack
+
+<p align="center">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="55" height="55" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="55" height="55" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-%23FFDA44.svg?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" width="55" height="55" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="55" height="55" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="55" height="55" />
+  </a>
+</p>
+
+---
+
+## Let's Connect
+<br/>
+<p align="center">
+  <a href="mailto:sheraz601050@gmail.com">
+    <img alt="Email | Muhammad Sheraz" src="https://img.shields.io/badge/Email-sheraz601050%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242">
+    <img alt="LinkedIn | Muhammad Sheraz" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sheraz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/MuhammadSheraz/">
+    <img alt="LeetCode | Muhammad Sheraz" src="https://img.shields.io/badge/LeetCode-Muhammad%20Sheraz-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.kaggle.com/muhammadsheraza002">
+    <img alt="Kaggle | Muhammad Sheraz" src="https://img.shields.io/badge/Kaggle-Muhammad%20Sheraz-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/MuhammadSheraz">
+    <img alt="GitHub | Muhammad Sheraz" src="https://img.shields.io/badge/GitHub-Muhammad%20Sheraz-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+```
+
+This format adheres to your given style and uses your specified **tools, usernames, and links**. Let me know if further adjustments are required!
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Sheraz-ds&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sheraz-ds&theme=vue-dark&hide_border=false)<br/>
