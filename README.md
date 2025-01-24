@@ -5,7 +5,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 ## 🌱 Projects  
 
-### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups-Query-Agent)  
+### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups_Query_Agent)  
 - Built a **data-driven platform** to query, filter, and summarize startup data from over **6,000 companies** listed on Y Combinator.  
 - Scraped and processed data using **Scrapy**, organizing it into a **SQLite database** for efficient querying.  
 - Integrated **SQL Agent** to enable natural language queries, providing advanced search and insights capabilities.  
