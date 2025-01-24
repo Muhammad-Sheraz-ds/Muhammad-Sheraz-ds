@@ -3,7 +3,13 @@
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
 
-## 🌱 Projects
+## 🌱 Projects  
+
+### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups-Query-Agent)  
+- Built a **data-driven platform** to query, filter, and summarize startup data from over **6,000 companies** listed on Y Combinator.  
+- Scraped and processed data using **Scrapy**, organizing it into a **SQLite database** for efficient querying.  
+- Integrated **SQL Agent** to enable natural language queries, providing advanced search and insights capabilities.  
+- Designed a user-friendly frontend using **Streamlit** for seamless interaction, powered by a **FastAPI** backend for scalable data operations.  
 
 ### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
 - Developed **CNNs** and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
