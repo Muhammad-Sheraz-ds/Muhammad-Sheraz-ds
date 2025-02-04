@@ -38,6 +38,117 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Courses</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    table, th, td {
+      border: 1px solid black;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    .collapsible {
+      background-color: #777;
+      color: white;
+      cursor: pointer;
+      padding: 10px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+
+    .active, .collapsible:hover {
+      background-color: #555;
+    }
+
+    .content {
+      padding: 0 18px;
+      display: none;
+      overflow: hidden;
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Courses</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Course Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <button class="collapsible">Python for Data Science</button>
+      </td>
+      <td>
+        <div class="content">
+          A comprehensive course covering Python fundamentals, libraries like **NumPy**, **Pandas**, and data analysis techniques. Focuses on real-world applications with hands-on coding exercises.
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <button class="collapsible">Machine Learning Specialization</button>
+      </td>
+      <td>
+        <div class="content">
+          A specialization that dives deep into **supervised** and **unsupervised learning**, model evaluation, and optimization techniques. Includes practical projects on predicting outcomes and building robust machine learning models.
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <button class="collapsible">Deep Learning with TensorFlow</button>
+      </td>
+      <td>
+        <div class="content">
+          Focuses on building neural networks using **TensorFlow** and **Keras**, including concepts like CNNs and RNNs for various applications.
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
+
+
+
+
 ## 📚 Education
 
 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
