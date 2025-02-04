@@ -38,54 +38,7 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Courses</title>
-  <style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    table, th, td {
-      border: 1px solid black;
-    }
-
-    th, td {
-      padding: 8px;
-      text-align: left;
-    }
-
-    .collapsible {
-      background-color: #777;
-      color: white;
-      cursor: pointer;
-      padding: 10px;
-      width: 100%;
-      border: none;
-      text-align: left;
-      outline: none;
-      font-size: 15px;
-    }
-
-    .active, .collapsible:hover {
-      background-color: #555;
-    }
-
-    .content {
-      padding: 0 18px;
-      display: none;
-      overflow: hidden;
-      background-color: #f1f1f1;
-    }
-  </style>
-</head>
-<body>
-
-<h2>Courses</h2>
+# Courses
 
 <table>
   <thead>
@@ -143,8 +96,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
   }
 </script>
 
-</body>
-</html>
 
 
 
