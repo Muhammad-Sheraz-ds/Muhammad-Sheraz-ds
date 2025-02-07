@@ -46,7 +46,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 - **BS Data Science:**
 - **Punjab University College of Information and Technology, Lahore**
-- **7th Semester (Current)**
 
 
 <div align="center">
