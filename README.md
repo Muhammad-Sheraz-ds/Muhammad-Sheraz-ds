@@ -3,29 +3,11 @@
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
 
+- [Course 1: Python Basics](https://github.com/username/repo1)  
+- [Course 2: Data Analysis](https://github.com/username/repo2)  
 
-<style>
-  /* This style creates a two-column bullet list */
-  .two-column-list {
-    list-style-type: disc;
-    padding-left: 20px; /* Adjust left padding as desired */
-    margin: 0;
-  }
-  .two-column-list li {
-    display: inline-block;
-    width: 50%;
-    vertical-align: top;
-    box-sizing: border-box;
-  }
-</style>
-
-<ul class="two-column-list">
-  <li><a href="https://github.com/username/repo1" target="_blank">Course 1: Python Basics</a></li>
-  <li><a href="https://github.com/username/repo2" target="_blank">Course 2: Data Analysis</a></li>
-  <li><a href="https://github.com/username/repo3" target="_blank">Course 3: Machine Learning</a></li>
-  <li><a href="https://github.com/username/repo4" target="_blank">Course 4: Deep Learning</a></li>
-  <!-- Add more courses as needed -->
-</ul>
+- [Course 3: Machine Learning](https://github.com/username/repo3)  
+- [Course 4: Deep Learning](https://github.com/username/repo4)  
 
 
 
