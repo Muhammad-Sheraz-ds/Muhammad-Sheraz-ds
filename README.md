@@ -3,13 +3,6 @@
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
 
-- [Course 1: Python Basics](https://github.com/username/repo1)  
-- [Course 2: Data Analysis](https://github.com/username/repo2)  
-
-- [Course 3: Machine Learning](https://github.com/username/repo3)  
-- [Course 4: Deep Learning](https://github.com/username/repo4)  
-
-
 
 
 ## 🌱 Projects  
