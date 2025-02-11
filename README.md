@@ -1,6 +1,24 @@
 # Hello! 😊 I'm Muhammad Sheraz
 
 A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
+<table style="border: none;">
+  <tr>
+    <td>- Data Structures</td>
+    <td>- Algorithms</td>
+  </tr>
+  <tr>
+    <td>- Machine Learning</td>
+    <td>- Deep Learning</td>
+  </tr>
+  <tr>
+    <td>- Python Programming</td>
+    <td>- Data Science</td>
+  </tr>
+  <tr>
+    <td>- Statistical Analysis</td>
+    <td>- Big Data Analytics</td>
+  </tr>
+</table>
 
 
 ## 🌱 Projects  
