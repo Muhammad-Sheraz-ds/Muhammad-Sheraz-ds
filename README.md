@@ -1,127 +1,85 @@
 # Hello! 😊 I'm Muhammad Sheraz
 
-**AI Engineer | Machine Learning Engineer**
+A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
 
-A dedicated AI Engineer with over 8 months of professional experience and a strong foundation in **Generative AI, LLMs, RAG systems**, and **Deep Learning**. I specialize in building production-ready AI systems and leveraging cutting-edge tools to deliver innovative solutions. My expertise spans large-scale automation pipelines, model fine-tuning, and integrating AI with scalable backend systems.
 
----
 
-## 🚀 Professional Summary
 
-AI Engineer with hands-on expertise in **Generative AI**, **LLMs**, and **RAG systems**. Proven track record of building impactful solutions, including LLM-based proposal automation, Arabic grammar correction models, and AI-powered learning platforms. Runner-up in multiple National AI Hackathons, demonstrating strong problem-solving and innovation skills.
+## 🌱 Projects  
 
----
+### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups_Query_Agent)  
+- Built a **data-driven platform** to query, filter, and summarize startup data from over **6,000 companies** listed on Y Combinator.  
+- Scraped and processed data using **Scrapy**, organizing it into a **SQLite database** for efficient querying.  
+- Integrated **SQL Agent** to enable natural language queries, providing advanced search and insights capabilities.  
+- Designed a user-friendly frontend using **Streamlit** for seamless interaction, powered by a **FastAPI** backend for scalable data operations.  
 
-## 🛠 Core Skills
+### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
+- Developed **CNNs** and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
+- Handled imbalanced datasets by **data augmentation** and **class weight** technique.
+- Developed a real-time emotion detection system for both images and live video streams using **OpenCV**.  
+- Created an intuitive frontend with **HTML, CSS, and JavaScript**, and deployed the application on **Docker** for scalable use.
 
-- **Programming:** Python, SQL
-- **AI & ML:** LLMs, Transformers, RAG, LangChain, LangGraph, CNNs, LSTMs, GANs, Attention Mechanisms, Transfer Learning, Fine-Tuning
-- **Frameworks & Tools:** TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, OpenCV, Hugging Face, Streamlit, FastAPI, Docker
-- **Dev Tools:** Git, GitHub, REST APIs, Scrapy, Plotly, Seaborn, Matplotlib
-- **Soft Skills:** Problem Solving, Communication, Critical Thinking, Collaboration, Research Skills
-
----
-
-## 💼 Professional Experience
-
-### **Associate AI Engineer**
-*July 2025 – Present | Lahore, Pakistan*
-- Engineered a **Slack-triggered AI Proposal Automation System** converting 10–100 page RFPs into complete grant proposals in 4–8 minutes, increasing internal efficiency by **70%**.
-- Contributed to an **Arabic language correction system**; implemented spelling correction pipelines, trained grammar models, and fine-tuned MARBERT/ARBERT using curated datasets.
-- Developed an **AI-powered LMS** that generates courses, quizzes, and TTS-synchronised talking-head videos; reduced processing latency by 70% through optimised parallel rendering.
-- Collaborated with cross-functional AI teams to improve model accuracy, data quality, and pipeline scalability.
-
-### **Data Science Intern**
-*Aug 2024 – Oct 2024 | Lahore, Pakistan*
-- Contributed to a **generative AI platform** for black-and-white colouring templates using **Stable Diffusion** fine-tuning.
-- Performed **data scraping** and preprocessing for high-volume image datasets.
-- Designed **RESTful APIs** to integrate AI outputs into production workflows.
-
----
-
-## 🌱 Projects
-
-### [Mental Health Advocacy Platform](https://github.com/Muhammad-Sheraz-ds)
-*LLMs | RAG | LangChain | FastAPI | React | Docker*
-- Building an **AI-powered conversational system** for mental health support using **Retrieval-Augmented Generation (RAG)**.
-- Implemented query expansion, ranking, embedding optimisation, and secure user authentication.
-
-### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups_Query_Agent)
-- Built a **data-driven platform** to query, filter, and summarize startup data from over **6,000 companies**.
-- Scraped and processed data using **Scrapy**, organizing it into a **SQLite database**.
-- Integrated **SQL Agent** and **LangChain** to enable natural language queries.
-- Designed a user-friendly frontend using **Streamlit** backed by **FastAPI**.
-
-### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)
-- Developed **CNNs** and implemented transfer learning (ResNet50, VGG16).
-- Built a real-time emotion detection system for both images and live video streams using **OpenCV**.
-- Deployed the application via **Docker** with a **FastAPI** backend.
-
-### [Quora Question Pairs Semantic Similarity](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)
-- Built an NLP-based model to evaluate semantic similarity between question pairs.
-- Delivered a **Streamlit-powered user interface**, ensuring ease of use and scalability.
+### [Quora Question Pairs Semantic Similarity](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)  
+- Built an NLP-based model to evaluate semantic similarity between question pairs using **tokenization, stemming**, and other advanced preprocessing techniques.  
+- Delivered a **Streamlit-powered user interface**, ensuring ease of use and scalability, with deployment via **Docker**.
 
 ### [Sign Language Recognition System](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
-- Developed a deep learning model using a **CNN** for real-time recognition of sign language gestures.
-- Built a backend using **Flask** and a responsive frontend using **HTML/CSS/JS**.
 
-### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)
-- Developed an AI-driven system for **real estate price prediction**.
-- Integrated a user-centric interface using **FastAPI** and **Streamlit**.
+- Developed a deep learning model using a **CNN** ,Enabled real-time recognition of sign language gestures, bridging communication gaps for individuals who use sign language.
+- Built a backend using **Flask** and a responsive frontend using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for real-time gesture recognition.
 
-### [Insurance Claims Prediction System](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)
-- Built a comprehensive solution for **insurance claims prediction** utilizing advanced EDA and model optimization.
-- Deployed on **Streamlit Community Cloud**.
 
----
+### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
+- Developed an AI-driven system for **real estate price prediction**, optimizing property profits with machine learning models.  
+- Applied data preprocessing, feature engineering, and visualization to enhance model performance and insights.
+- Integrated a user-centric interface using **FastAPI** and **Streamlit**, offering streamlined workflows for users.  
 
-## 🏆 Achievements
+### [Insurance Claims Prediction System](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
+- Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
+- Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
 
-- **Runner-up:** AI Hackathon at TechFest
-- **2nd Runner-up:** AI Hackathon at PF-PUCon’25
-- Recognized for high-impact AI automations and model fine-tuning contributions.
 
----
+
+
 
 ## 📚 Education
 
 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/c8/University_of_the_Punjab_logo.png">
 
-- **BS Data Science**
-- **Punjab University College of Information Technology (PUCIT), Lahore**
-- *Nov 2021 – June 2025*
+- **BS Data Science:**
+- **Punjab University College of Information and Technology, Lahore**
 
-<br/>
 
 <div align="center">
   <h2 align="center">📫 Get in Touch</h2>
   
 <br/>
 <p align="center">
-	<a href="mailto:sheraz.datascientist@gmail.com">
-		<img  alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	<a href="mailto:sheraz.ds.pucit@gmail.com">
+		<img  alt="sheraz.ds.pucit@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 	<a href="https://twitter.com/MuhammadSheraz">
-		<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
-		<img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://leetcode.com/u/MuhammadSheraz/">
-		<img alt="LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 	</a>
 	<a href="https://sheraz.codeflex.org/">
-		<img alt="Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 	</a>
 	<a href="https://www.fiverr.com/sellers/sherazumarhayat/edit">
-		<img alt="Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
+		<img alt="Muhammad Sheraz | Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
 	</a>
 	<a href="https://www.upwork.com/freelancers/~01107342a905d58879">
-		<img alt="Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
+		<img alt="Muhammad Sheraz | Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
 	</a>
 	<br />
 </p>
 </div>
+
 
 # 💻 Tech Stack:
 
@@ -153,6 +111,21 @@ AI Engineer with hands-on expertise in **Generative AI**, **LLMs**, and **RAG sy
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammad-Sheraz-ds&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Sheraz-ds&theme=vue-dark&hide_border=false)<br/>
@@ -167,5 +140,10 @@ AI Engineer with hands-on expertise in **Generative AI**, **LLMs**, and **RAG sy
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Sheraz-ds&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
 ---
+<!-- [![](https://visitcount.itsvg.in/api?id=MuhammadSheraza002&icon=0&color=0)](https://visitcount.itsvg.in) -->
 [![](https://visitcount.itsvg.in/api?id=MuhammadSheraza002&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
