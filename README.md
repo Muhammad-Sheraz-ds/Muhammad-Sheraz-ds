@@ -5,41 +5,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 
 
 
-## 🌱 Projects  
-
-### [Startups Query Agent](https://github.com/Muhammad-Sheraz-ds/Startups_Query_Agent)  
-- Built a **data-driven platform** to query, filter, and summarize startup data from over **6,000 companies** listed on Y Combinator.  
-- Scraped and processed data using **Scrapy**, organizing it into a **SQLite database** for efficient querying.  
-- Integrated **SQL Agent** to enable natural language queries, providing advanced search and insights capabilities.  
-- Designed a user-friendly frontend using **Streamlit** for seamless interaction, powered by a **FastAPI** backend for scalable data operations.  
-
-### [AI Facial Emotion Detection System](https://github.com/Muhammad-Sheraz-ds/Emotion-Detection-Using-CNN-and-FER-2013-Dataset)  
-- Developed **CNNs** and implemented transfer learning on different architecture like **Resnet50** and **VGG16**.
-- Handled imbalanced datasets by **data augmentation** and **class weight** technique.
-- Developed a real-time emotion detection system for both images and live video streams using **OpenCV**.  
-- Created an intuitive frontend with **HTML, CSS, and JavaScript**, and deployed the application on **Docker** for scalable use.
-
-### [Quora Question Pairs Semantic Similarity](https://github.com/Muhammad-Sheraz-ds/Quora-Question-Pairs)  
-- Built an NLP-based model to evaluate semantic similarity between question pairs using **tokenization, stemming**, and other advanced preprocessing techniques.  
-- Delivered a **Streamlit-powered user interface**, ensuring ease of use and scalability, with deployment via **Docker**.
-
-### [Sign Language Recognition System](https://github.com/Muhammad-Sheraz-ds/Sign_Language_Recognition.git)
-
-- Developed a deep learning model using a **CNN** ,Enabled real-time recognition of sign language gestures, bridging communication gaps for individuals who use sign language.
-- Built a backend using **Flask** and a responsive frontend using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for real-time gesture recognition.
-
-
-### [AI Property Profit Maximizer](https://github.com/Muhammad-Sheraz-ds/AI-Property-Profit-Maximizer)  
-- Developed an AI-driven system for **real estate price prediction**, optimizing property profits with machine learning models.  
-- Applied data preprocessing, feature engineering, and visualization to enhance model performance and insights.
-- Integrated a user-centric interface using **FastAPI** and **Streamlit**, offering streamlined workflows for users.  
-
-### [Insurance Claims Prediction System](https://github.com/Muhammad-Sheraz-ds/Predicting-Insurance-Claim)  
-- Built a comprehensive solution for **insurance claims prediction** by conducting data preprocessing, exploratory data analysis, and model optimization.  
-- Deployed the application on **Streamlit Community Cloud**, ensuring seamless access and scalability.signed an accessible interface using **Streamlit** and deployed the project via **Docker Hub**.
-
-
-
 
 
 ## 📚 Education
