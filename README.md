@@ -50,36 +50,6 @@ A dedicated **Python Developer** and **Data Scientist** with a strong foundation
 - **Punjab University College of Information and Technology, Lahore**
 
 
-<div align="center">
-  <h2 align="center">📫 Get in Touch</h2>
-  
-<br/>
-<p align="center">
-	<a href="mailto:sheraz.ds.pucit@gmail.com">
-		<img  alt="sheraz.ds.pucit@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-	</a>
-	<a href="https://twitter.com/MuhammadSheraz">
-		<img alt="@MuhammadSheraz | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/muhammad-sheraz-5b3887242/">
-		<img alt="Muhammad Sheraz | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://leetcode.com/u/MuhammadSheraz/">
-		<img alt="Muhammad Sheraz | LeetCode"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-	</a>
-	<a href="https://sheraz.codeflex.org/">
-		<img alt="Muhammad Sheraz | Portfolio"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-	</a>
-	<a href="https://www.fiverr.com/sellers/sherazumarhayat/edit">
-		<img alt="Muhammad Sheraz | Fiverr"  src="https://img.shields.io/badge/Fiverr-%232BDE73.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
-	</a>
-	<a href="https://www.upwork.com/freelancers/~01107342a905d58879">
-		<img alt="Muhammad Sheraz | Upwork"  src="https://img.shields.io/badge/Upwork-%23006400.svg?style=for-the-badge&logo=upwork&logoColor=white" />
-	</a>
-	<br />
-</p>
-</div>
-
 
 # 💻 Tech Stack:
 
